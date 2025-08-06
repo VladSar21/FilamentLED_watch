@@ -11,19 +11,21 @@
 
 ## Аssembling
 
-![image](https:/)
+![image](https://github.com/VladSar21/FilamentLED_watch/blob/main/image/0.jpg)
 
-![image](https:/)
+![image](https://github.com/VladSar21/FilamentLED_watch/blob/main/image/1.jpg)
 
-![image](https:/)
+![image](https://github.com/VladSar21/FilamentLED_watch/blob/main/image/2.jpg)
 
-![image](https:/)
+![image](https://github.com/VladSar21/FilamentLED_watch/blob/main/image/3.jpg)
 
-![image](https:/)
+![image](https://github.com/VladSar21/FilamentLED_watch/blob/main/image/4.jpg)
 
-![image](https:/)
+![image](https://github.com/VladSar21/FilamentLED_watch/blob/main/image/5.jpg)
 
-![image](https:/)
+![image](https://github.com/VladSar21/FilamentLED_watch/blob/main/image/6.jpg)
+
+![image](https://github.com/VladSar21/FilamentLED_watch/blob/main/image/7.jpg)
 
 
 ## Features
