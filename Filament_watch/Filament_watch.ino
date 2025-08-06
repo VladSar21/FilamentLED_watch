@@ -6,7 +6,7 @@
 #include <WiFiManager.h>  //2.0.12
 #include <GyverNTP.h>  // 1.3.1
 
-GyverNTP ntp(4);
+GyverNTP ntp(4);   // GMT +4
 
 #define CS_595 5
 #define DAT_595 23  // MOSI
